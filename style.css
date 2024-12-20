@@ -1,0 +1,74 @@
+#social {
+    width: 122px;
+    height: 124px;
+    background-image: url(assests/Social\ icon.png);
+    background-repeat: no-repeat;
+    background-position: -102px 0px;
+
+}
+
+
+#social:hover {
+    background-position: -102px -119px;
+
+}
+
+
+#social1 {
+    width: 122px;
+    height: 124px;
+    background-image: url(assests/Social\ icon.png);
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+
+}
+
+#social1:hover{
+    background-position: 0px -118px;
+}
+
+#social2 {
+    width: 122px;
+    height: 124px;
+    background-image: url(assests/Social\ icon.png);
+    background-repeat: no-repeat;
+    background-position: -204px 0px;
+
+}
+
+#social2:hover{
+    background-position: -204px -120px;
+}
+
+#social3 {
+    width: 122px;
+    height: 124px;
+    background-image: url(assests/Social\ icon.png);
+    background-repeat: no-repeat;
+    background-position: -307px 0px;
+}
+
+#social3:hover{
+    background-position: -307px -118px;
+}
+
+#social4 {
+    width: 122px;
+    height: 124px;
+    background-image: url(assests/Social\ icon.png);
+    background-repeat: no-repeat;
+    background-position: -409px 0px;
+}
+
+#social4:hover{
+    background-position: -408px -116px;
+}
+
+h1{
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding: 12px 12px;
+    border: 6px solid black;
+   
+}
